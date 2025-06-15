@@ -1,2 +1,1 @@
-# GENAI-Projects
-genai projects
+rag_chatbot
